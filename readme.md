@@ -1,7 +1,7 @@
-Changed 10:20 16/06/2016
+Changed 10:20 16/06/2016 NOW
 # Spring PetClinic Sample Application
 
-## What does it look like?
+## What does it look like? 
 -spring-petclinic has been deployed here on cloudfoundry: http://demo-spring-petclinic.cfapps.io/
 
 
